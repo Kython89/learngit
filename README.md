@@ -2,4 +2,6 @@
 
 Hello World
 
-This is going to conflict.
+
+This is going to work.
+
